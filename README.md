@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 📗 I'm currently learning from **Panaverse, PIAIC.**
+- 📗 I'm currently learning from **PIAIC.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syedahafsa12/](https://github.com/syedahafsa12/)
 
