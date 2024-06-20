@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQH52fJvK4vSGw/profile-displaybackgroundimage-shrink_350_1400/0/1714408080805?e=1724284800&v=beta&t=gmHJoxVkurNSLH8tTxsYx8F9CtYBHw1Oh31oPjm7PHs)
 <h1 align="center">Hi 👋, I'm Syeda Hafsa</h1>
 <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&tbnid=tkD88475CNPNmM&vet=12ahUKEwiZt6Ob1umGAxWMR_EDHSenA2AQM3oECBoQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiZt6Ob1umGAxWMR_EDHSenA2AQM3oECBoQAA"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&tbnid=tkD88475CNPNmM&vet=12ahUKEwiZt6Ob1umGAxWMR_EDHSenA2AQM3oECBoQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiZt6Ob1umGAxWMR_EDHSenA2AQM3oECBoQAA">
 
 - 🌱 I’m currently learning **Nextjs**
 
@@ -19,7 +19,7 @@ img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100090858772914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090858772914" height="30" width="40" /></a>
 <a href="https://instagram.com/syedahafsa58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedahafsa58" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7m15wto28hihsrcfaya3pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7m15wto28hihsrcfaya3pq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7m15wto28hihsrcfaya3pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@syedahafsadeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
