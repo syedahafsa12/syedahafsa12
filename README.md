@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQH52fJvK4vSGw/profile-displaybackgroundimage-shrink_350_1400/0/1714408080805?e=1724284800&v=beta&t=gmHJoxVkurNSLH8tTxsYx8F9CtYBHw1Oh31oPjm7PHs)
 <h1 align="center">Hi 👋, I'm Syeda Hafsa</h1>
 <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&tbnid=tkD88475CNPNmM&vet=12ahUKEwiZt6Ob1umGAxWMR_EDHSenA2AQM3oECBoQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiZt6Ob1umGAxWMR_EDHSenA2AQM3oECBoQAA">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20animated%20coding%20gif%20giphy&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F601014116770475.6068beff4640a.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&docid=hkdl7LLQcswitM&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwjI8_nn2emGAxU4BdsEHX4NDTIQM3oECBYQAA..i&w=500&h=350&hcb=2&ved=2ahUKEwjI8_nn2emGAxU4BdsEHX4NDTIQM3oECBYQAA">
 
 - 🌱 I’m currently learning **Nextjs**
 
