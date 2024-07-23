@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQH52fJvK4vSGw/profile-displaybackgroundimage-shrink_350_1400/0/1714408080805?e=1724284800&v=beta&t=gmHJoxVkurNSLH8tTxsYx8F9CtYBHw1Oh31oPjm7PHs)
+
 <h1 align="center">Hi 👋, I'm Syeda Hafsa</h1>
 <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
