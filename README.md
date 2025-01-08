@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **LangGraph**
 
 - 📗 I'm currently learning from **PIAIC.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syedahafsa12/](https://github.com/syedahafsa12/)
 
-- 💬 Ask me about **Nextjs, HTML, CSS, Sanity, Stripe**
+- 💬 Ask me about **Nextjs, HTML, CSS, Sanity, Stripe, LangChain, LangGraph**
 
 - 📫 How to reach me **syedahafsa772@gmail.com**
 
